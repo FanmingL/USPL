@@ -45,7 +45,8 @@ Training logs can be found in the `logfile` directory. Training parameters can b
 @inproceedings{luo2025uspl,
   title={Uncertainty-Sensitive Privileged Learning},
   author={Luo, Fan-Ming and Yuan, Lei and Yu, Yang},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems 39},
+  address = {San Diego, CA},
   year={2025}
 }
 ```
